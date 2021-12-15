@@ -6,6 +6,10 @@ The following was discovered as part of building this project:
 # Getting Started
 The application is a simple Spring Boot 2 / Spring Framework 5 web application
 
+**Notes**: 
+1. JPA or Database entities need to be packaged in entities/ domain/ model folder
+2. 
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
